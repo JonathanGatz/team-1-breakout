@@ -36,7 +36,8 @@ function App() {
         </a>{' '}
         was bootstrapped with{' '}
         <a href="https://facebook.github.io/create-react-app/">
-          Create React App
+          Create MONKE App
+          <img src='https://i.kym-cdn.com/photos/images/newsfeed/001/131/258/07c.jpg' alt='is monke' />
         </a>{' '}
         and contains three directories, <code>/public</code> for static assets,{' '}
         <code>/src</code> for components and content, and <code>/api</code>{' '}
@@ -48,7 +49,7 @@ function App() {
         .
       </p>
       <br />
-      <h2>The date according to Go is:</h2>
+      <h2>The date according to YOUR MOM is:</h2>
       <p>{date ? date : 'Loading date...'}</p>
     </main>
   );
